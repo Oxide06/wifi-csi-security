@@ -4,3 +4,4 @@ sdkconfig.old
 *.pyc
 __pycache__/
 managed_components/
+main/secrets.h
